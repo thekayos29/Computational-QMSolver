@@ -51,7 +51,7 @@ To prove the code tracks real physics rather than ungrounded approximations, it 
 ---
 
 ## Getting Started
-
+(NOTE : DOWNLOAD THE IPYNB FILE AND RUN THE BLOCKS ONE BY ONE )
 ### Prerequisites
 Install the standard Python scientific stack:
 ```bash
